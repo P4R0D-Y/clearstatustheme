@@ -30,7 +30,7 @@
 - id: isMaintenance
   translation: Algunos sistemas en mantenimiento...
 - id: isOk
-  translation: Todos sistema operativos.
+  translation: Todos los sistemas operativos.
 
 # Components list status
 - id: disrupted
